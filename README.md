@@ -17,7 +17,7 @@ npm --version
     -10.7.0 //Por ejemplo
 ```
 
-Con los anteriores comandos podemos observar su version, en caso de no retornarnos algo similar y necesitemos instalar, podemos ejecutar el siguiente comando:
+Con el siguiente comando podemos observar su version, en caso de no retornarnos algo similar y necesitemos instalar, podemos ejecutar el siguiente comando:
 
 ```
 sudo apt install npm
@@ -31,7 +31,7 @@ Vamos a postrarnos dentro de nuestra carpeta principal de nuestro proyecto, aseg
 API REST - Erick Nevarez/
 ├── bin/
 ├── controllers/     *Carpeta no necesaria para esta practica*
-├── node_modules/
+├── node_modules/ *Carpeta no se encuentra en el repositorio, favor de ejecutar el comando "npm install"
 ├── public/
 ├── routes/
 ├── views/
